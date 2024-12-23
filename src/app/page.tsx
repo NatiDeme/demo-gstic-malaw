@@ -8,7 +8,7 @@ import Services from "@/pages/Services";
 
 export default function PagesWrapper() {
   return (
-    <div className="p-4">
+    <div className="py-4 overflow-clip">
       <Navbar />
       <Home />
       <About />
