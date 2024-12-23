@@ -8,7 +8,7 @@ import Services from "@/pages/Services";
 
 export default function PagesWrapper() {
   return (
-    <div className="">
+    <div className="p-4">
       <Navbar />
       <Home />
       <About />

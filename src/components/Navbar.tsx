@@ -3,7 +3,7 @@ import React from 'react'
 function Navbar() {
   return (
     <div className='flex justify-between'>
-      <div>
+      <div className='text-lg font-bold'>
         TEWABECH
       </div>
         <ul className='md:flex gap-6 hidden'>
